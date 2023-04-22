@@ -1,4 +1,4 @@
-# Length-distribution-of-sequencing-by-synthesis
+# Length distribution of sequencing-by-synthesis
 
 On this site you can find the source code of the simulation program 
 `sbs_ffcm_simul.c` to simulate the distribution of sequence length for 
